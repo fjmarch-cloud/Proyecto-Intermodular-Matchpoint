@@ -1,6 +1,6 @@
 # Portfolio – Proyecto MatchPoint
 
-## Proyecto: MatchPoint 🎾
+## Proyecto: MatchPoint 
 
 Aplicación de gestión de reservas de pistas deportivas.
 
